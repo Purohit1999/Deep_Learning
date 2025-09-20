@@ -189,6 +189,3 @@ git push
 
 ```
 
-Want me to tweak any descriptions (e.g., what Project 2 specifically does in your version)?
-::contentReference[oaicite:0]{index=0}
-```
