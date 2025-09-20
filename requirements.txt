@@ -1,0 +1,13 @@
+﻿numpy
+pandas
+matplotlib
+scikit-learn
+nltk
+spacy
+gensim
+textblob
+transformers
+sentencepiece
+accelerate
+jupyter
+ipykernel
